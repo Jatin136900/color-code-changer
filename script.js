@@ -7,3 +7,7 @@ btn.addEventListener("click", () => {
   box.style.backgroundColor = color;
   para.textContent = color;
 });
+
+
+
+
